@@ -1,4 +1,14 @@
-- Improved this
-- Improved and this
-- And this
-- And fixed this
+{
+    "version":0.1,
+    "changelog" : "Add eventhandling.\nCheck readme file or discord channel.",
+    "old":[
+        {
+            "version":0.1,
+            "changelog" : "First Release"
+        },
+        {
+            "version":0.2,
+            "changelog" : "Now you can translate \"No Bait\" text to your language"
+        }
+    ]
+}
