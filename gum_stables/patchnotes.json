@@ -1,12 +1,10 @@
-{
-    "patchNotes":[
-        {
-            "version":0.1,
-            "changelog" : "First Release"
-        },
-        {
-            "version":0.2,
-            "changelog" : "Now you can translate \"No Bait\" text to your language"
-        }
-    ]
-}
+[
+    {
+        "version":0.1,
+        "changelog" : "First Release"
+    },
+    {
+        "version":0.2,
+        "changelog" : "Now you can translate \"No Bait\" text to your language"
+    }
+]
