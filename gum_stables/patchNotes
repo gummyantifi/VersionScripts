@@ -1,7 +1,5 @@
 {
-    "version":0.1,
-    "changelog" : "Add eventhandling.\nCheck readme file or discord channel.",
-    "old":[
+    "patchNotes":[
         {
             "version":0.1,
             "changelog" : "First Release"
