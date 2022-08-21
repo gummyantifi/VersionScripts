@@ -2,5 +2,5 @@
     {
         "version": 1.1,
         "changelogs" : "- Improved storage system for animals \n(Now animals is stored in server.)"
-    },
+    }
 ]
