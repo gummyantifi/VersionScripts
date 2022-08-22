@@ -3,12 +3,13 @@
         "version": 1.0,
         "changelogs" : [
             "[IMPROVE]",
-            "Now hunting carts have storage system for animals",
-            "Animals is stored in cart, and if you need animal you take from menu.",
+            "- Now hunting carts have storage system for animals",
+            "- Animals is stored in cart, and if you need animal you take from menu.",
             "",
             "[UPDATE]",
-            "Prompts now setuped for Hold metod. Its more better and more RDR2 Logic",
-            "Now carts example Oil Carts for water does have buttons for enter to storage",
+            "- Prompts now setuped for Hold metod. Its more better and more RDR2 Logic.",
+            "- Now carts example Oil Carts for water does have buttons for enter to storage.",
+            "- Prepare water wagon for new farming.",
             "",
             "[FIXES]",
             "Some detailed fix"
