@@ -10,6 +10,8 @@
             "- Prompts now setuped for Hold metod. Its more better and more RDR2 Logic.",
             "- Now carts example Oil Carts for water does have buttons for enter to storage.",
             "- Prepare water wagon for new farming.",
+            "- Update SQL with real logic and edit table for hunt carts.",
+            "- Update style missed cart in config.",
             "",
             "[FIXES]",
             "Some detailed fix"
